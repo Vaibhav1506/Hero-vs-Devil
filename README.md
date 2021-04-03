@@ -1,1 +1,2 @@
-# Hero-vs-Devil
+# collisionAlgorithm
+Algorithm to detect collision between two objects
